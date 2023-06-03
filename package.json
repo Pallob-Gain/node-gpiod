@@ -1,0 +1,31 @@
+{
+  "name": "node-gpiod",
+  "version": "1.0.0",
+  "description": "Node.js Library for GPIO Control on M10xCore, Raspberry Pi, BeagleBone, and Other Linux-based SBCs",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "start": "node ./index.js"
+  },
+  "author": "Pallob K. Gain",
+  "license": "GPL v2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pallob-Gain/node-gpiod.git"
+  },
+  "keywords": [
+    "libgpiod",
+    "GPIO",
+    "Node.js",
+    "M10xCore",
+    "Raspberry Pi",
+    "BeagleBone",
+    "Linux",
+    "embedded",
+    "hardware",
+    "control"
+  ],
+  "dependencies": {
+    "ioctl": "^2.0.2"
+  }
+}

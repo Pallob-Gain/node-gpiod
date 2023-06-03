@@ -1,0 +1,5 @@
+1. https://blog.lxsang.me/post/id/33
+2. node ioctl: https://github.com/santigimeno/node-ioctl
+3. node-libgpiod: https://github.com/sombriks/node-libgpiod
+4. pinctrl: https://www.kernel.org/doc/html/v4.15/driver-api/pinctl.html
+4. gpio: https://elixir.bootlin.com/linux/v4.7/source/include/uapi/linux/gpio.h
